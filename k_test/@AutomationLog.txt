@@ -1,0 +1,6 @@
+2024-10-31 16:13:34.584 ui_auto_wx.py[44] test2 -> Find Control Timeout(10s): {Depth: 8, Name: '搜索', ControlType: EditControl}
+2024-10-31 16:18:06.756 ui_auto_wx.py[44] test2 -> Find Control Timeout(10s): {Depth: 8, Name: '搜索', ControlType: EditControl}
+2024-10-31 16:18:23.609 ui_auto_wx.py[44] test2 -> Find Control Timeout(10s): {Depth: 8, Name: '搜索', ControlType: EditControl}
+2024-10-31 16:19:26.463 ui_auto_wx.py[44] test2 -> Find Control Timeout(10s): {Depth: 5, Name: '搜索', ControlType: EditControl}
+2024-10-31 16:27:31.386 ui_auto_wx.py[44] test2 -> Find Control Timeout(10s): {Depth: 5, Name: '搜索', ControlType: EditControl}
+2024-10-31 16:28:54.637 ui_auto_wx.py[44] test2 -> Find Control Timeout(10s): {Depth: 3, Name: '搜索', ControlType: EditControl}
